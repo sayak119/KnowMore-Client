@@ -3,7 +3,7 @@
 ![Know More Logo](newspaper.png)
 
 * Clone the repository `https://github.com/sayak119/KnowMore-Client`.
-* After starting the [Know More Server](https://github.com/sayak119/KnowMore-Server)go to settings in Chrome browser and select extension.
+* After starting the [Know More Server](https://github.com/sayak119/KnowMore-Server) go to settings in Chrome browser and select extension.
 
 ![Extension](images/extension.png)
 
@@ -11,4 +11,4 @@
 
 ![Developer Mode](images/devMode.png)
 
-* Now make a twitter account or login to one and test **Know More** 
+* Now make a twitter account or login to one and test **Know More**
